@@ -1,6 +1,8 @@
 # NAME: block
 payload:
   - DOMAIN-KEYWORD,corel
+  - DOMAIN-KEYWORD,corelstore
+  - DOMAIN-KEYWORD,coreldraw
   - DOMAIN-KEYWORD,xmind
   - DOMAIN-SUFFIX,api.wondershare.com
   - DOMAIN-SUFFIX,onchsoftware.com
