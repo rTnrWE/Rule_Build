@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,practivate
   - DOMAIN-KEYWORD,ereg.wip
   - DOMAIN-KEYWORD,3dns-
+  - DOMAIN-KEYWORD,activate.adobe
   - DOMAIN-SUFFIX,activate.adobe.de
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,genuine.adobe.com
@@ -21,12 +22,6 @@ payload:
   - DOMAIN-SUFFIX,3dns.adobe.com
   - DOMAIN-SUFFIX,activate-sea.adobe.com
   - DOMAIN-SUFFIX,activate-sjc0.adobe.com
-  - DOMAIN-SUFFIX,activate.adobe.com
-  - DOMAIN-SUFFIX,activate.wip.adobe.com
-  - DOMAIN-SUFFIX,activate.wip1.adobe.com
-  - DOMAIN-SUFFIX,activate.wip2.adobe.com
-  - DOMAIN-SUFFIX,activate.wip3.adobe.com
-  - DOMAIN-SUFFIX,activate.wip4.adobe.com
   - DOMAIN-SUFFIX,adobe-dns-01.adobe.com
   - DOMAIN-SUFFIX,adobe-dns-1.adobe.com
   - DOMAIN-SUFFIX,adobe-dns-2.adobe.com
