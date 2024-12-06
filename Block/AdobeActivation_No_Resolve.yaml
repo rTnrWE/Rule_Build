@@ -3,8 +3,8 @@ payload:
   - DOMAIN-KEYWORD,licensingstack
   - DOMAIN-KEYWORD,wwis-dubc1
   - DOMAIN-KEYWORD,practivate
+  - DOMAIN-KEYWORD,ereg.wip
   - DOMAIN-KEYWORD,3dns-
-  - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,activate.adobe.de
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,genuine.adobe.com
@@ -51,11 +51,6 @@ payload:
   - DOMAIN-SUFFIX,crs.cr.adobe.com
   - DOMAIN-SUFFIX,edgeproxy-irl1.cloud.adobe.io
   - DOMAIN-SUFFIX,ereg.adobe.com
-  - DOMAIN-SUFFIX,ereg.wip.adobe.com
-  - DOMAIN-SUFFIX,ereg.wip1.adobe.com
-  - DOMAIN-SUFFIX,ereg.wip2.adobe.com
-  - DOMAIN-SUFFIX,ereg.wip3.adobe.com
-  - DOMAIN-SUFFIX,ereg.wip4.adobe.com
   - DOMAIN-SUFFIX,ethos.adobe.net
   - DOMAIN-SUFFIX,geo2.adobe.com
   - DOMAIN-SUFFIX,hl2rcv.adobe.com
