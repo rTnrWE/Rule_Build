@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,licenses.adobe
   - DOMAIN-KEYWORD,genuine.adobe
   - DOMAIN-KEYWORD,activate.wip
+  - DOMAIN-KEYWORD,wip.adobe
   - DOMAIN-KEYWORD,activate-sea
   - DOMAIN-KEYWORD,activate-sjc
   - DOMAIN-KEYWORD,cc-cdn.adobe
