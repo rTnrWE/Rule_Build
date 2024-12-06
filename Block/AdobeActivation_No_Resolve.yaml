@@ -1,20 +1,22 @@
 payload:
   - DOMAIN-KEYWORD,adobe-dns
   - DOMAIN-KEYWORD,licensingstack
-  - DOMAIN-KEYWORD,wwis-dubc1
+  - DOMAIN-KEYWORD,wwis-dubc
   - DOMAIN-KEYWORD,practivate
   - DOMAIN-KEYWORD,ereg.wip
   - DOMAIN-KEYWORD,3dns-
   - DOMAIN-KEYWORD,activate.adobe
+  - DOMAIN-KEYWORD,practivate.adobe
+  - DOMAIN-KEYWORD,license.adobe
+  - DOMAIN-KEYWORD,licenses.adobe
+  - DOMAIN-KEYWORD,genuine.adobe
   - DOMAIN-KEYWORD,activate.wip
   - DOMAIN-KEYWORD,activate-sea
   - DOMAIN-KEYWORD,activate-sjc
   - DOMAIN-KEYWORD,cc-cdn.adobe
-  - DOMAIN-KEYWORD,practivate.adobe
-  - DOMAIN-KEYWORD,license.adobe
-  - DOMAIN-KEYWORD,licenses.adobe
+  - DOMAIN-KEYWORD,adobe.com-cn.edgesuite
+  - DOMAIN-KEYWORD,adobe.com.edgesuite
   - DOMAIN-SUFFIX,oobesaas.adobe.com
-  - DOMAIN-SUFFIX,genuine.adobe.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
   - DOMAIN-SUFFIX,adobestats.io
@@ -48,9 +50,6 @@ payload:
   - DOMAIN-SUFFIX,adobejanus.com
   - DOMAIN-SUFFIX,adobe.com.edgekey.net
   - DOMAIN-SUFFIX,sstats.adobe.com
-  - DOMAIN-SUFFIX,adobe.com-cn.edgesuite.net
-  - DOMAIN-SUFFIX,adobe.com-cn.edgesuite.net.globalredir.akadns.net
-  - DOMAIN-SUFFIX,adobe.com.edgesuite.net
   - DOMAIN-SUFFIX,licensingstack.com
   - DOMAIN-SUFFIX,adobeereg.com
   - IP-CIDR,100.24.211.130/32,no-resolve
