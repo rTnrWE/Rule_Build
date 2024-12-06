@@ -11,7 +11,7 @@ payload:
   - DOMAIN-KEYWORD,licenses.adobe
   - DOMAIN-KEYWORD,genuine.adobe
   - DOMAIN-KEYWORD,activate.wip
-  - DOMAIN-KEYWORD,wip*.adobe
+  - DOMAIN-KEYWORD,wip.adobe
   - DOMAIN-KEYWORD,activate-sea
   - DOMAIN-KEYWORD,activate-sjc
   - DOMAIN-KEYWORD,cc-cdn.adobe
@@ -19,6 +19,10 @@ payload:
   - DOMAIN-KEYWORD,adobe.com.edgesuite
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN-SUFFIX,wip1.adobe.com
+  - DOMAIN-SUFFIX,wip2.adobe.com
+  - DOMAIN-SUFFIX,wip3.adobe.com
+  - DOMAIN-SUFFIX,wip4.adobe.com
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
   - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN-SUFFIX,us-east-1.elb.amazonaws.com
