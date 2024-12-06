@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,adobe-dns
   - DOMAIN-KEYWORD,licensingstack
   - DOMAIN-KEYWORD,wwis-dubc1
+  - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,genuine.adobe.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
@@ -55,7 +56,7 @@ payload:
   - DOMAIN-SUFFIX,ereg.wip2.adobe.com
   - DOMAIN-SUFFIX,ereg.wip3.adobe.com
   - DOMAIN-SUFFIX,ereg.wip4.adobe.com
-  - DOMAIN-SUFFIX,ethos.ethos02-prod-irl1.ethos.adobe.net
+  - DOMAIN-SUFFIX,ethos.adobe.net
   - DOMAIN-SUFFIX,geo2.adobe.com
   - DOMAIN-SUFFIX,hl2rcv.adobe.com
   - DOMAIN-SUFFIX,stage.adobe.com
@@ -80,7 +81,6 @@ payload:
   - DOMAIN-SUFFIX,wip3.adobe.com
   - DOMAIN-SUFFIX,wip4.adobe.com
   - DOMAIN-SUFFIX,licensingstack.com
-  - DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
   - DOMAIN-SUFFIX,adobeereg.com
   - DOMAIN-SUFFIX,wip.adobe.com
   - DOMAIN-SUFFIX,wip1.adobe.com
