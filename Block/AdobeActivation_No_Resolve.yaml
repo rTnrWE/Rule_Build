@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-REGEX,^wip[a-zA-Z0-9-]{1,63}\.adobe\.com$
   - DOMAIN-KEYWORD,adobe-dns
   - DOMAIN-KEYWORD,licensingstack
   - DOMAIN-KEYWORD,wwis-dubc
@@ -18,6 +17,7 @@ payload:
   - DOMAIN-KEYWORD,cc-cdn.adobe
   - DOMAIN-KEYWORD,adobe.com-cn.edgesuite
   - DOMAIN-KEYWORD,adobe.com.edgesuite
+  - DOMAIN-REGEX,^wip[a-zA-Z0-9-]{1,63}\.adobe\.com$
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
