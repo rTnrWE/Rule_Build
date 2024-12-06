@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,ereg.wip
   - DOMAIN-KEYWORD,3dns-
   - DOMAIN-KEYWORD,activate.adobe
+  - DOMAIN-KEYWORD,activate.wip
   - DOMAIN-SUFFIX,activate.adobe.de
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,genuine.adobe.com
@@ -66,18 +67,8 @@ payload:
   - DOMAIN-SUFFIX,adobe.com-cn.edgesuite.net
   - DOMAIN-SUFFIX,adobe.com-cn.edgesuite.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,adobe.com.edgesuite.net
-  - DOMAIN-SUFFIX,wip.adobe.com
-  - DOMAIN-SUFFIX,wip1.adobe.com
-  - DOMAIN-SUFFIX,wip2.adobe.com
-  - DOMAIN-SUFFIX,wip3.adobe.com
-  - DOMAIN-SUFFIX,wip4.adobe.com
   - DOMAIN-SUFFIX,licensingstack.com
   - DOMAIN-SUFFIX,adobeereg.com
-  - DOMAIN-SUFFIX,wip.adobe.com
-  - DOMAIN-SUFFIX,wip1.adobe.com
-  - DOMAIN-SUFFIX,wip2.adobe.com
-  - DOMAIN-SUFFIX,wip3.adobe.com
-  - DOMAIN-SUFFIX,wip4.adobe.com
   - IP-CIDR,100.24.211.130/32,no-resolve
   - IP-CIDR,13.227.103.57/32,no-resolve
   - IP-CIDR,162.247.242.20/32,no-resolve
