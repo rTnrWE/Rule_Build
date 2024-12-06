@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,wwis-dubc1
   - DOMAIN-KEYWORD,practivate
   - DOMAIN-KEYWORD,3dns-
+  - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,activate.adobe.de
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,genuine.adobe.com
