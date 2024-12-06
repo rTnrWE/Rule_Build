@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,adobe-dns
   - DOMAIN-KEYWORD,licensingstack
   - DOMAIN-KEYWORD,wwis-dubc1
+  - DOMAIN-KEYWORD,practivate
   - DOMAIN-KEYWORD,3dns-
   - DOMAIN-SUFFIX,activate.adobe.de
   - DOMAIN-SUFFIX,oobesaas.adobe.com
@@ -65,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,practivate.adobe.ipp
   - DOMAIN-SUFFIX,practivate.adobe.newoa
   - DOMAIN-SUFFIX,practivate.adobe.ntp
+  - DOMAIN-SUFFIX,practivate.adobe.de
   - DOMAIN-SUFFIX,adobegenuine.com
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
   - DOMAIN-SUFFIX,adobejanus.com
