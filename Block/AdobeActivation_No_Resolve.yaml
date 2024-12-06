@@ -7,7 +7,12 @@ payload:
   - DOMAIN-KEYWORD,3dns-
   - DOMAIN-KEYWORD,activate.adobe
   - DOMAIN-KEYWORD,activate.wip
-  - DOMAIN-SUFFIX,activate.adobe.de
+  - DOMAIN-KEYWORD,activate-sea
+  - DOMAIN-KEYWORD,activate-sjc
+  - DOMAIN-KEYWORD,cc-cdn.adobe
+  - DOMAIN-KEYWORD,practivate.adobe
+  - DOMAIN-KEYWORD,license.adobe
+  - DOMAIN-KEYWORD,licenses.adobe
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,genuine.adobe.com
   - DOMAIN-SUFFIX,adobe.io
@@ -15,20 +20,7 @@ payload:
   - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN-SUFFIX,us-east-1.elb.amazonaws.com
   - DOMAIN-SUFFIX,adobegenuine.com
-  - DOMAIN-SUFFIX,licenses.adobe.com
-  - DOMAIN-SUFFIX,license.adobe.com
-  - DOMAIN-SUFFIX,activate.adobe.com
-  - DOMAIN-SUFFIX,activate-sea.adobe.com
-  - DOMAIN-SUFFIX,activate-sea.adobe.de
   - DOMAIN-SUFFIX,3dns.adobe.com
-  - DOMAIN-SUFFIX,activate-sea.adobe.com
-  - DOMAIN-SUFFIX,activate-sjc0.adobe.com
-  - DOMAIN-SUFFIX,adobe-dns-01.adobe.com
-  - DOMAIN-SUFFIX,adobe-dns-1.adobe.com
-  - DOMAIN-SUFFIX,adobe-dns-2.adobe.com
-  - DOMAIN-SUFFIX,adobe-dns-3.adobe.com
-  - DOMAIN-SUFFIX,adobe-dns-4.adobe.com
-  - DOMAIN-SUFFIX,adobe-dns.adobe.com
   - DOMAIN-SUFFIX,adobe.demdex.net
   - DOMAIN-SUFFIX,adobe.tt.omtrdc.net
   - DOMAIN-SUFFIX,adobedc.demdex.net
@@ -37,8 +29,6 @@ payload:
   - DOMAIN-SUFFIX,adobejanus.com
   - DOMAIN-SUFFIX,services.adobe.com
   - DOMAIN-SUFFIX,bam.nr-data.net
-  - DOMAIN-SUFFIX,cc-cdn.adobe.com
-  - DOMAIN-SUFFIX,cc-cdn.adobe.com.edgekey.net
   - DOMAIN-SUFFIX,cclibraries-defaults-cdn.adobe.com
   - DOMAIN-SUFFIX,adobe.com.edgekey.net
   - DOMAIN-SUFFIX,adobedtm.com.edgekey.net
@@ -53,12 +43,6 @@ payload:
   - DOMAIN-SUFFIX,stage.adobe.com
   - DOMAIN-SUFFIX,k.sni.global.fastly.net
   - DOMAIN-SUFFIX,ood.opsource.net
-  - DOMAIN-SUFFIX,practivate.adobe
-  - DOMAIN-SUFFIX,practivate.adobe.com
-  - DOMAIN-SUFFIX,practivate.adobe.ipp
-  - DOMAIN-SUFFIX,practivate.adobe.newoa
-  - DOMAIN-SUFFIX,practivate.adobe.ntp
-  - DOMAIN-SUFFIX,practivate.adobe.de
   - DOMAIN-SUFFIX,adobegenuine.com
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
   - DOMAIN-SUFFIX,adobejanus.com
