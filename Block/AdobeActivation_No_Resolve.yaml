@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,licensingstack
   - DOMAIN-KEYWORD,wwis-dubc1
   - DOMAIN-KEYWORD,3dns-
+  - DOMAIN-SUFFIX,activate.adobe.de
   - DOMAIN-SUFFIX,oobesaas.adobe.com
   - DOMAIN-SUFFIX,genuine.adobe.com
   - DOMAIN-SUFFIX,adobe.io
