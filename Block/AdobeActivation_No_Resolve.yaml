@@ -1,66 +1,66 @@
-# NAME: AdobeActivation
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
 payload:
+  - DOMAIN-KEYWORD,adobe-dns
+  - DOMAIN-KEYWORD,licensingstack
+  - DOMAIN-KEYWORD,wwis-dubc1
+  - DOMAIN-SUFFIX,genuine.adobe.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
   - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN-SUFFIX,us-east-1.elb.amazonaws.com
   - DOMAIN-SUFFIX,adobegenuine.com
-  - DOMAIN,3dns-1.adobe.com
-  - DOMAIN,3dns-2.adobe.com
-  - DOMAIN,3dns-3.adobe.com
-  - DOMAIN,3dns-4.adobe.com
-  - DOMAIN,3dns.adobe.com
-  - DOMAIN,activate-sea.adobe.com
-  - DOMAIN,activate-sjc0.adobe.com
-  - DOMAIN,activate.adobe.com
-  - DOMAIN,activate.wip.adobe.com
-  - DOMAIN,activate.wip1.adobe.com
-  - DOMAIN,activate.wip2.adobe.com
-  - DOMAIN,activate.wip3.adobe.com
-  - DOMAIN,activate.wip4.adobe.com
-  - DOMAIN,adobe-dns-01.adobe.com
-  - DOMAIN,adobe-dns-1.adobe.com
-  - DOMAIN,adobe-dns-2.adobe.com
-  - DOMAIN,adobe-dns-3.adobe.com
-  - DOMAIN,adobe-dns-4.adobe.com
-  - DOMAIN,adobe-dns.adobe.com
-  - DOMAIN,adobe.demdex.net
-  - DOMAIN,adobe.tt.omtrdc.net
-  - DOMAIN,adobedc.demdex.net
-  - DOMAIN,adobeereg.com
-  - DOMAIN,adobeid-na1.services.adobe.com
-  - DOMAIN,assets.adobedtm.com
-  - DOMAIN,auth-cloudfront.prod.ims.adobejanus.com
-  - DOMAIN,auth.services.adobe.com
-  - DOMAIN,bam.nr-data.net
-  - DOMAIN,cc-cdn.adobe.com
-  - DOMAIN,cc-cdn.adobe.com.edgekey.net
-  - DOMAIN,cclibraries-defaults-cdn.adobe.com
-  - DOMAIN,cclibraries-defaults-cdn.adobe.com.edgekey.net
-  - DOMAIN,cn-assets.adobedtm.com.edgekey.net
-  - DOMAIN,crl.verisign.net
-  - DOMAIN,crlog-crcn.adobe.com
-  - DOMAIN,crs.cr.adobe.com
-  - DOMAIN,edgeproxy-irl1.cloud.adobe.io
-  - DOMAIN,ereg.adobe.com
-  - DOMAIN,ereg.wip.adobe.com
-  - DOMAIN,ereg.wip1.adobe.com
-  - DOMAIN,ereg.wip2.adobe.com
-  - DOMAIN,ereg.wip3.adobe.com
-  - DOMAIN,ereg.wip4.adobe.com
-  - DOMAIN,ethos.ethos02-prod-irl1.ethos.adobe.net
-  - DOMAIN,genuine.adobe.com
-  - DOMAIN,geo2.adobe.com
-  - DOMAIN,hl2rcv.adobe.com
-  - DOMAIN,hlrcv.stage.adobe.com
-  - DOMAIN,k.sni.global.fastly.net
-  - DOMAIN,lm.licenses.adobe.com
-  - DOMAIN,lmlicenses.wip4.adobe.com
-  - DOMAIN,na1r.services.adobe.com
-  - DOMAIN,na2m-pr.licenses.adobe.com
-  - DOMAIN,ood.opsource.net
+  - DOMAIN-SUFFIX,licenses.adobe.com
+  - DOMAIN-SUFFIX,license.adobe.com
+  - DOMAIN-SUFFIX,activate.adobe.com
+  - DOMAIN-SUFFIX,activate-sea.adobe.com
+  - DOMAIN-SUFFIX,activate-sea.adobe.de
+  - DOMAIN-SUFFIX,3dns-1.adobe.com
+  - DOMAIN-SUFFIX,3dns-2.adobe.com
+  - DOMAIN-SUFFIX,3dns-3.adobe.com
+  - DOMAIN-SUFFIX,3dns-4.adobe.com
+  - DOMAIN-SUFFIX,3dns.adobe.com
+  - DOMAIN-SUFFIX,activate-sea.adobe.com
+  - DOMAIN-SUFFIX,activate-sjc0.adobe.com
+  - DOMAIN-SUFFIX,activate.adobe.com
+  - DOMAIN-SUFFIX,activate.wip.adobe.com
+  - DOMAIN-SUFFIX,activate.wip1.adobe.com
+  - DOMAIN-SUFFIX,activate.wip2.adobe.com
+  - DOMAIN-SUFFIX,activate.wip3.adobe.com
+  - DOMAIN-SUFFIX,activate.wip4.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-01.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-1.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-2.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-3.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns-4.adobe.com
+  - DOMAIN-SUFFIX,adobe-dns.adobe.com
+  - DOMAIN-SUFFIX,adobe.demdex.net
+  - DOMAIN-SUFFIX,adobe.tt.omtrdc.net
+  - DOMAIN-SUFFIX,adobedc.demdex.net
+  - DOMAIN-SUFFIX,adobeereg.com
+  - DOMAIN-SUFFIX,adobedtm.com
+  - DOMAIN-SUFFIX,adobejanus.com
+  - DOMAIN-SUFFIX,services.adobe.com
+  - DOMAIN-SUFFIX,bam.nr-data.net
+  - DOMAIN-SUFFIX,cc-cdn.adobe.com
+  - DOMAIN-SUFFIX,cc-cdn.adobe.com.edgekey.net
+  - DOMAIN-SUFFIX,cclibraries-defaults-cdn.adobe.com
+  - DOMAIN-SUFFIX,adobe.com.edgekey.net
+  - DOMAIN-SUFFIX,adobedtm.com.edgekey.net
+  - DOMAIN-SUFFIX,crl.verisign.net
+  - DOMAIN-SUFFIX,crlog-crcn.adobe.com
+  - DOMAIN-SUFFIX,crs.cr.adobe.com
+  - DOMAIN-SUFFIX,edgeproxy-irl1.cloud.adobe.io
+  - DOMAIN-SUFFIX,ereg.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip1.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip2.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip3.adobe.com
+  - DOMAIN-SUFFIX,ereg.wip4.adobe.com
+  - DOMAIN-SUFFIX,ethos.ethos02-prod-irl1.ethos.adobe.net
+  - DOMAIN-SUFFIX,geo2.adobe.com
+  - DOMAIN-SUFFIX,hl2rcv.adobe.com
+  - DOMAIN-SUFFIX,stage.adobe.com
+  - DOMAIN-SUFFIX,k.sni.global.fastly.net
+  - DOMAIN-SUFFIX,ood.opsource.net
   - DOMAIN-SUFFIX,practivate.adobe
   - DOMAIN-SUFFIX,practivate.adobe.com
   - DOMAIN-SUFFIX,practivate.adobe.ipp
@@ -69,19 +69,18 @@ payload:
   - DOMAIN-SUFFIX,adobegenuine.com
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
   - DOMAIN-SUFFIX,adobejanus.com
-  - DOMAIN,ssl-delivery.adobe.com.edgekey.net
-  - DOMAIN,sstats.adobe.com
-  - DOMAIN,stls.adobe.com-cn.edgesuite.net
-  - DOMAIN,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
-  - DOMAIN,uds.licenses.adobe.com
-  - DOMAIN,use-stls.adobe.com.edgesuite.net
-  - DOMAIN,wip.adobe.com
-  - DOMAIN,wip1.adobe.com
-  - DOMAIN,wip2.adobe.com
-  - DOMAIN,wip3.adobe.com
-  - DOMAIN,wip4.adobe.com
-  - DOMAIN,workflow-ui-prod.licensingstack.com
-  - DOMAIN,wwis-dubc1-vip60.adobe.com
+  - DOMAIN-SUFFIX,adobe.com.edgekey.net
+  - DOMAIN-SUFFIX,sstats.adobe.com
+  - DOMAIN-SUFFIX,adobe.com-cn.edgesuite.net
+  - DOMAIN-SUFFIX,adobe.com-cn.edgesuite.net.globalredir.akadns.net
+  - DOMAIN-SUFFIX,adobe.com.edgesuite.net
+  - DOMAIN-SUFFIX,wip.adobe.com
+  - DOMAIN-SUFFIX,wip1.adobe.com
+  - DOMAIN-SUFFIX,wip2.adobe.com
+  - DOMAIN-SUFFIX,wip3.adobe.com
+  - DOMAIN-SUFFIX,wip4.adobe.com
+  - DOMAIN-SUFFIX,licensingstack.com
+  - DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
   - DOMAIN-SUFFIX,adobeereg.com
   - DOMAIN-SUFFIX,wip.adobe.com
   - DOMAIN-SUFFIX,wip1.adobe.com
