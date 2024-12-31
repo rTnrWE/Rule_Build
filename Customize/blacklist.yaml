@@ -1,3 +1,0 @@
-# NAME: blacklist
-payload:
-  - DOMAIN-SUFFIX,hostloc.com
