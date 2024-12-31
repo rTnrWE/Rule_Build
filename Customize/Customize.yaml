@@ -1,4 +1,0 @@
-# NAME: Customize
-payload:
-  - DOMAIN-KEYWORD,hostloc
-  - DOMAIN-SUFFIX,hostloc.com
