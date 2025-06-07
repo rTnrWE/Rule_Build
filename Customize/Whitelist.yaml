@@ -5,4 +5,6 @@ payload:
   - DOMAIN-SUFFIX,music.126.net
   - DOMAIN-SUFFIX,music.163.com
   - DOMAIN-SUFFIX,man.netease.com
+  - DOMAIN-SUFFIX,alibaba.com
+  - DOMAIN-SUFFIX,1688.com
   - IP-CIDR,147.135.114.141/32
