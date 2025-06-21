@@ -1,6 +1,6 @@
 # NAME: whitelist
 payload:
-  - DOMAIN-SUFFIX,billing.sparkedhost.com
+  - DOMAIN-SUFFIX,sparkedhost.com
   - DOMAIN-SUFFIX,nextdns.io
   - DOMAIN-SUFFIX,music.126.net
   - DOMAIN-SUFFIX,music.163.com
