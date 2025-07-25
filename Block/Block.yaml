@@ -1,5 +1,6 @@
 # NAME: block
 payload:
+  - DOMAIN-KEYWORD,stun
   - DOMAIN-KEYWORD,corel
   - DOMAIN-KEYWORD,corelstore
   - DOMAIN-KEYWORD,coreldraw
