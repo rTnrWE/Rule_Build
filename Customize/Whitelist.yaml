@@ -2,8 +2,8 @@
 payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,nextdns.io
-  - DOMAIN-SUFFIX,music.126.net
-  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,126.net
+  - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,1688.com
