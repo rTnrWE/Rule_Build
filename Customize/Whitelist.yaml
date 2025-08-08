@@ -11,4 +11,5 @@ payload:
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,jpush.cn
   - DOMAIN-SUFFIX,wxzniot.com
+  - DOMAIN-SUFFIX,100190.xyz
   - IP-CIDR,147.135.114.141/32
