@@ -14,4 +14,6 @@ payload:
   - DOMAIN-SUFFIX,100190.xyz
   - DOMAIN-SUFFIX,neuraai.de
   - DOMAIN-SUFFIX,cfhub.de
+  - DOMAIN-SUFFIX,zhchcloud.de
+  - DOMAIN-SUFFIX,flaredge.de
   - IP-CIDR,147.135.114.141/32
