@@ -12,8 +12,10 @@ payload:
   - DOMAIN-SUFFIX,jpush.cn
   - DOMAIN-SUFFIX,wxzniot.com
   - DOMAIN-SUFFIX,100190.xyz
+  - DOMAIN-SUFFIX,906096.xyz
   - DOMAIN-SUFFIX,neuraai.de
   - DOMAIN-SUFFIX,cfhub.de
   - DOMAIN-SUFFIX,zhchcloud.de
   - DOMAIN-SUFFIX,flaredge.de
+  - DOMAIN-SUFFIX,cfedge.de
   - IP-CIDR,147.135.114.141/32
