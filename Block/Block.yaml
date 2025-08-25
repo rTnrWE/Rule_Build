@@ -1,5 +1,11 @@
 # NAME: block
 payload:
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,googleadsserving.cn
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googletagservices.com
+  - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,adservice.google.com
   - DOMAIN-SUFFIX,googleads.g.doubleclick.net
   - DOMAIN-SUFFIX,static.doubleclick.net
