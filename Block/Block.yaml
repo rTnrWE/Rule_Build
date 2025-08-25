@@ -1,5 +1,9 @@
 # NAME: block
 payload:
+  - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+  - DOMAIN-SUFFIX,static.doubleclick.net
+  - DOMAIN-KEYWORD,googleadservices
   - DOMAIN-KEYWORD,stun
   - DOMAIN-KEYWORD,corel
   - DOMAIN-KEYWORD,corelstore
