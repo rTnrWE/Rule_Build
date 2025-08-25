@@ -4,28 +4,18 @@ payload:
   - DOMAIN-KEYWORD,corelstore
   - DOMAIN-KEYWORD,coreldraw
   - DOMAIN-KEYWORD,xmind
-  - DOMAIN-SUFFIX,api.wondershare.com
+  - DOMAIN-KEYWORD,wondershare
+  - DOMAIN-KEYWORD,affinity
+  - DOMAIN-KEYWORD,parallels
+  - DOMAIN-KEYWORD,parallelskorea
+  - DOMAIN-KEYWORD,myparallels
+  - DOMAIN-KEYWORD,nektony
   - DOMAIN-SUFFIX,onchsoftware.com
   - DOMAIN-SUFFIX,luckydogsoft.com
   - DOMAIN-SUFFIX,nch.com.au
-  - DOMAIN-SUFFIX,wondershare.cn.edgesuite.net
-  - DOMAIN-SUFFIX,wondershare.cn.edgesuite.net
-  - DOMAIN-SUFFIX,platform.wondershare.com
-  - DOMAIN-SUFFIX,macplatform.wondershare.com
-  - DOMAIN-SUFFIX,cbs.wondershare.com
-  - DOMAIN-SUFFIX,us.wondershare.com
-  - DOMAIN-SUFFIX,affinity.api.serifservices.com
-  - DOMAIN-SUFFIX,download.wondershare.com
-  - DOMAIN-SUFFIX,ori-myphone-download.wondershare.cc
-  - DOMAIN-SUFFIX,my.wondershare.com
-  - DOMAIN-SUFFIX,resource.wondershare.com
   - DOMAIN-SUFFIX,sublimehq.com
   - DOMAIN-SUFFIX,sublimetext.com
   - DOMAIN-SUFFIX,daisydiskapp.com
   - DOMAIN-SUFFIX,phaseone.com
-  - DOMAIN-KEYWORD,parallels
-  - DOMAIN-KEYWORD,parallelskorea
-  - DOMAIN-KEYWORD,myparallels
-  - DOMAIN-KEYWORD,nektony.com
   - DOMAIN-SUFFIX,netsarang.com
   - DOMAIN-SUFFIX,netsarang.co.kr
