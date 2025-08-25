@@ -1,15 +1,5 @@
 # NAME: block
 payload:
-  - DOMAIN-SUFFIX,doubleclick.net
-  - DOMAIN-SUFFIX,googleadsserving.cn
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,googletagservices.com
-  - DOMAIN-SUFFIX,ads.youtube.com
-  - DOMAIN-SUFFIX,adservice.google.com
-  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
-  - DOMAIN-SUFFIX,static.doubleclick.net
-  - DOMAIN-KEYWORD,googleadservices
-  - DOMAIN-KEYWORD,stun
   - DOMAIN-KEYWORD,corel
   - DOMAIN-KEYWORD,corelstore
   - DOMAIN-KEYWORD,coreldraw
@@ -37,10 +27,5 @@ payload:
   - DOMAIN-KEYWORD,parallelskorea
   - DOMAIN-KEYWORD,myparallels
   - DOMAIN-KEYWORD,nektony.com
-  - DOMAIN-KEYWORD,activate.netsarang.com
-  - DOMAIN-KEYWORD,sales.netsarang.com
-  - DOMAIN-KEYWORD,transact.netsarang.com
-  - DOMAIN-KEYWORD,up.netsarang.com
-  - DOMAIN-KEYWORD,update.netsarang.com
-  - DOMAIN-KEYWORD,www.netsarang.com
-  - DOMAIN-KEYWORD,www.netsarang.co.kr
+  - DOMAIN-SUFFIX,netsarang.com
+  - DOMAIN-SUFFIX,netsarang.co.kr
