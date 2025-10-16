@@ -19,5 +19,5 @@ payload:
   - DOMAIN-SUFFIX,flaredge.de
   - DOMAIN-SUFFIX,cfedge.de
   - DOMAIN-SUFFIX,aichatpro.de
-  # - DOMAIN-SUFFIX,zhchmeta.de
+  - DOMAIN-SUFFIX,zhchmeta.de
   - IP-CIDR,147.135.114.141/32
