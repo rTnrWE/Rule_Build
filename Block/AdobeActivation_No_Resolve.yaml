@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,prod.cloud.adobe.io
   - DOMAIN-SUFFIX,adobestats.io
+  - DOMAIN-SUFFIX,hstatic.io
   - DOMAIN-SUFFIX,us-east-1.elb.amazonaws.com
   - DOMAIN-SUFFIX,adobegenuine.com
   - DOMAIN-SUFFIX,3dns.adobe.com
