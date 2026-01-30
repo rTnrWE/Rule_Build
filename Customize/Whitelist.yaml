@@ -1,5 +1,12 @@
 # NAME: whitelist
 payload:
+  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,nextdns.io
   - DOMAIN-SUFFIX,126.net
