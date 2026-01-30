@@ -7,6 +7,10 @@ payload:
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
   - DOMAIN-KEYWORD,taobao
+  - DOMAIN-SUFFIX,bdimg.com
+  - DOMAIN-SUFFIX,amap.com
+  - DOMAIN-SUFFIX,autonavi.com
+  - DOMAIN-SUFFIX,lbs.amap.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,nextdns.io
   - DOMAIN-SUFFIX,126.net
@@ -46,3 +50,5 @@ payload:
   - IP-ASN,17621
   - IP-ASN,4809
   - IP-ASN,136907
+  - IP-ASN,37963
+  - IP-ASN,37936
