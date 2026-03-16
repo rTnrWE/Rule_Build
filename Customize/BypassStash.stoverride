@@ -67,6 +67,9 @@ skip-proxy:
   - '*.mapbar.com'
   - '*.navinfo.com'
   - '*.navinfo.com.cn'
+  - *.alibabadns.com
+  - *.youku.com
+  - *.qchannel*.cn
   # JD / Pinduoduo
   - '*.jd.com'
   - '*.360buyimg.com'
