@@ -5,9 +5,8 @@ skip-proxy:
   # Tencent / WeChat / WeCom / QQ
   - '*.qq.com'
   - '*.wechat.com'
-  - '*.weixin.com'
+  - '*.weixin*.com'
   - '*.servicewechat.com'
-  - '*.weixinbridge.com'
   - '*.qpic.cn'
   - '*.gtimg.cn'
   - '*.gtimg.com'
@@ -37,7 +36,7 @@ skip-proxy:
   - '*.larksuite.com'
   - '*.larksuitecdn.com'
   # Alibaba / Taobao / Tmall / 1688 / Alipay / DingTalk / Yuque
-  - '*.alibaba.com'
+  - '*.alibaba*.com'
   - '*.taobao.com'
   - '*.tmall.com'
   - '*.tb.cn'
