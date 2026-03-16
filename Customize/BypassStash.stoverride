@@ -2,22 +2,19 @@ name: BypassChinaApps
 desc: Bypass most CN app traffic in Stash
 date: 2026-03-16
 skip-proxy:
-  - localhost
-  - "*.local"
-  - "*.lan"
   - '+.lan'
   - '+.local'
-  - '+.apple.com'
+  - '+.arpa'
+  - '+.ntp.org'
   - '+.10010.com'
   - '+.10086.com'
   - '+.wosms.cn'
-  - '+.arpa'
-  - '+.ntp.org'
   - '+.msftncsi.com'
   - '+.msftconnecttest.com'
   - 'time.windows.com'
   - 'time.apple.com'
   - 'time.asia.apple.com'
+  - '+.apple.com'
   - '+.icloud.com'
   - '+.mzstatic.com'
   - '+.qq.com'
@@ -40,9 +37,13 @@ skip-proxy:
   - '+.snssdk.com'
   - '+.toutiao.com'
   - '+.toutiaoapi.com'
+  - '+.toutiaovod.com'
+  - '+.toutiaoimg.com'
+  - '+.toutiaostatic.com'
   - '+.zijieapi.com'
   - '+.ixigua.com'
   - '+.bytedance.com'
+  - '+.bytedanceapi.com'
   - '+.byteimg.com'
   - '+.ibytedtos.com'
   - '+.feishu.cn'
@@ -108,7 +109,7 @@ skip-proxy:
   - '+.kdocs.cn'
   - '+.kingsoft.com'
   - '+.yunzhijia.com'
-  - '+.yonyou.com'
+  - '+.yonku.com'
   - '+.weaver.com.cn'
   - '+.hikvision.com'
   - '+.hik-connect.com'
