@@ -1,101 +1,151 @@
 name: BypassChinaApps
-desc: Bypass most Chinese apps from Stash
-date: 2026-03-15
+desc: Bypass most CN app traffic in Stash
+date: 2026-03-16
 skip-proxy:
-  # Tencent
-  - "*.qq.com"
-  - "*.wechat.com"
-  - "*.weixin.com"
-  - "*.qpic.cn"
-  - "*.gtimg.cn"
-  - "*.gtimg.com"
-  - "*.qcloud.com"
-  - "*.myqcloud.com"
-  - "*.tencent.com"
-  # ByteDance
-  - "*.douyin.com"
-  - "*.douyincdn.com"
-  - "*.douyinpic.com"
-  - "*.toutiao.com"
-  - "*.snssdk.com"
-  - "*.byteimg.com"
-  - "*.bytedance.com"
-  - "*.byted.org"
-  # Alibaba
-  - "*.taobao.com"
-  - "*.tmall.com"
-  - "*.tb.cn"
-  - "*.1688.com"
-  - "*.alibaba.com"
-  - "*.alicdn.com"
-  - "*.aliyun.com"
-  - "*.aliyuncs.com"
-  # Baidu
-  - "*.baidu.com"
-  - "*.bdimg.com"
-  - "*.bdstatic.com"
-  - "*.baidubce.com"
-  - "*.baidupcs.com"
-  # JD
-  - "*.jd.com"
-  - "*.jd.hk"
-  - "*.360buyimg.com"
-  - "*.jcloud.com"
-  # Meituan
-  - "*.meituan.com"
-  - "*.dianping.com"
-  - "*.sankuai.com"
-  # Lifestyle
-  - "*.ele.me"
-  - "*.didichuxing.com"
-  # Media
-  - "*.bilibili.com"
-  - "*.bilivideo.com"
-  - "*.hdslb.com"
-  - "*.xiaohongshu.com"
-  - "*.xhslink.com"
+  # Tencent / WeChat / WeCom / QQ
+  - '*.qq.com'
+  - '*.wechat.com'
+  - '*.weixin.com'
+  - '*.servicewechat.com'
+  - '*.weixinbridge.com'
+  - '*.qpic.cn'
+  - '*.gtimg.cn'
+  - '*.gtimg.com'
+  - '*.qcloud.com'
+  - '*.myqcloud.com'
+  - '*.tencent.com'
+  - '*.tencent-cloud.com'
+  - '*.tenpay.com'
+  - '*.wxutil.com'
+  - '*.docs.qq.com'
+  - '*.meeting.tencent.com'
+  - '*.voovmeeting.com'
+  - '*.wecom.qq.com'
+  - '*.work.weixin.qq.com'
+  # ByteDance / Toutiao / Douyin / Feishu / Lark
+  - '*.douyin.com'
+  - '*.douyincdn.com'
+  - '*.douyinpic.com'
+  - '*.snssdk.com'
+  - '*.toutiao.com'
+  - '*.ixigua.com'
+  - '*.bytedance.com'
+  - '*.byteimg.com'
+  - '*.ibytedtos.com'
+  - '*.feishu.cn'
+  - '*.feishucdn.com'
+  - '*.larksuite.com'
+  - '*.larksuitecdn.com'
+  # Alibaba / Taobao / Tmall / 1688 / Alipay / DingTalk / Yuque
+  - '*.alibaba.com'
+  - '*.taobao.com'
+  - '*.tmall.com'
+  - '*.tb.cn'
+  - '*.1688.com'
+  - '*.alipay.com'
+  - '*.alipayobjects.com'
+  - '*.alicdn.com'
+  - '*.aliyun.com'
+  - '*.aliyuncs.com'
+  - '*.dingtalk.com'
+  - '*.dingtalkcorp.com'
+  - '*.dingtalkcdn.com'
+  - '*.dingtalkapps.com'
+  - '*.yuque.com'
+  - '*.teambition.com'
+  # Baidu / Baidu Map / Netdisk
+  - '*.baidu.com'
+  - '*.bdimg.com'
+  - '*.bdstatic.com'
+  - '*.baidubce.com'
+  - '*.baidupcs.com'
+  # Map / navigation
+  - '*.amap.com'
+  - '*.autonavi.com'
+  - '*.a-map.com'
+  - '*.amapauto.com'
+  - '*.mapbar.com'
+  - '*.navinfo.com'
+  - '*.navinfo.com.cn'
+  # JD / Pinduoduo
+  - '*.jd.com'
+  - '*.360buyimg.com'
+  - '*.jcloud.com'
+  - '*.pinduoduo.com'
+  - '*.yangkeduo.com'
+  # Meituan / Eleme / Didi / Xiaohongshu
+  - '*.meituan.com'
+  - '*.dianping.com'
+  - '*.sankuai.com'
+  - '*.ele.me'
+  - '*.didiglobal.com'
+  - '*.didi.cn'
+  - '*.xiaohongshu.com'
+  - '*.xhslink.com'
   # NetEase
-  - "*.163.com"
-  - "*.126.net"
-  - "*.netease.com"
-  # Xiaomi
-  - "*.xiaomi.com"
-  - "*.mi.com"
-  - "*.miwifi.com"
-  # Office
-  - "*.wps.cn"
-  - "*.kdocs.cn"
-  - "*.kingsoft.com"
-  - "*.yunzhijia.com"
-  - "*.yonyou.com"
-  - "*.weaver.com.cn"
+  - '*.163.com'
+  - '*.126.net'
+  - '*.netease.com'
+  # Xiaomi / Huawei
+  - '*.xiaomi.com'
+  - '*.mi.com'
+  - '*.miwifi.com'
+  - '*.xiaomi.net'
+  - '*.huawei.com'
+  - '*.hicloud.com'
+  - '*.huaweicloud.com'
+  - '*.myhuaweicloud.com'
+  # Office / collaboration
+  - '*.wps.cn'
+  - '*.kdocs.cn'
+  - '*.kingsoft.com'
+  - '*.yunzhijia.com'
+  - '*.yonyou.com'
+  - '*.weaver.com.cn'
   # Hikvision / EZVIZ
-  - "*.hikvision.com"
-  - "*.hik-connect.com"
-  - "*.hikvisionlife.com"
-  - "*.ezviz.com"
-  - "*.ezvizlife.com"
-  - "*.ys7.com"
-  - "*.ys7cloud.com"
-
+  - '*.hikvision.com'
+  - '*.hik-connect.com'
+  - '*.hikvisionlife.com'
+  - '*.ezviz.com'
+  - '*.ezvizlife.com'
+  - '*.ys7.com'
+  - '*.ys7cloud.com'
+  # Payment / bank / finance
+  - '*.unionpay.com'
+  - '*.chinaunionpay.com'
+  - '*.95516.com'
+  - '*.icbc.com.cn'
+  - '*.ccb.com'
+  - '*.abchina.com'
+  - '*.boc.cn'
+  - '*.bankofchina.com'
+  - '*.cmbchina.com'
+  - '*.cmbimg.com'
+  - '*.spdb.com.cn'
+  - '*.citicbank.com'
+  - '*.ecitic.com'
+  - '*.cebbank.com'
+  - '*.cebbank.com.cn'
+  - '*.pingan.com'
+  - '*.cgbchina.com.cn'
+  - '*.psbc.com'
+  - '*.eastmoney.com'
+  - '*.htsec.com'
+  - '*.gtja.com'
+  - '*.futunn.com'
+  - '*.futuq.com'
+  - '*.futuhk.com'
+  - '*.moomoo.com'
 exclude-tun-routes:
-  # Private network
   - 10.0.0.0/8
-  - 172.16.0.0/12
-  - 192.168.0.0/16
-  # Carrier NAT
   - 100.64.0.0/10
-  # Link local
   - 169.254.0.0/16
-  # Documentation / special use
+  - 172.16.0.0/12
   - 192.0.0.0/24
-  # Fake-IP range
+  - 192.168.0.0/16
   - 198.18.0.0/15
-  # Multicast
   - 224.0.0.0/4
-  # Reserved
   - 240.0.0.0/4
-  # IPv6
   - ::1/128
   - fc00::/7
   - fe80::/10
