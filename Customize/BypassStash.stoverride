@@ -39,6 +39,8 @@ skip-proxy:
   - '+.douyinpic.com'
   - '+.snssdk.com'
   - '+.toutiao.com'
+  - '+.toutiaoapi.com'
+  - '+.zijieapi.com'
   - '+.ixigua.com'
   - '+.bytedance.com'
   - '+.byteimg.com'
