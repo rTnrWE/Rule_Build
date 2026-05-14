@@ -3,8 +3,8 @@ payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,hostinger
-  - DOMAIN-KEYWORD,hostingersite
+ # - DOMAIN-KEYWORD,hostinger
+ # - DOMAIN-KEYWORD,hostingersite
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
