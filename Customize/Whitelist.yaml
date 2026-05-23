@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
   - DOMAIN-KEYWORD,taobao
+  - DOMAIN-SUFFIX,jinlongmm.com
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
