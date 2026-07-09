@@ -3,13 +3,13 @@ payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,hostinger
-  - DOMAIN-KEYWORD,hostingersite
+#  - DOMAIN-KEYWORD,hostinger
+#  - DOMAIN-KEYWORD,hostingersite
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
   - DOMAIN-KEYWORD,taobao
-  - DOMAIN-SUFFIX,jinlongmm.com
+#  - DOMAIN-SUFFIX,jinlongmm.com
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
