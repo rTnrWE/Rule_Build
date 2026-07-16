@@ -5,11 +5,11 @@ payload:
   - DOMAIN-KEYWORD,alipay
 #  - DOMAIN-KEYWORD,hostinger
 #  - DOMAIN-KEYWORD,hostingersite
+#  - DOMAIN-SUFFIX,jinlongmm.com
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
   - DOMAIN-KEYWORD,taobao
-#  - DOMAIN-SUFFIX,jinlongmm.com
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,906096.xyz
   - DOMAIN-SUFFIX,neuraai.de
   - DOMAIN-SUFFIX,cfhub.de
-  - DOMAIN-SUFFIX,zhchcloud.de
+#  - DOMAIN-SUFFIX,zhchcloud.de
   - DOMAIN-SUFFIX,flaredge.de
   - DOMAIN-SUFFIX,cfedge.de
   - DOMAIN-SUFFIX,cfcore.de
