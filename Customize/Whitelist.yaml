@@ -6,6 +6,7 @@ payload:
 #  - DOMAIN-KEYWORD,hostinger
 #  - DOMAIN-KEYWORD,hostingersite
 #  - DOMAIN-SUFFIX,jinlongmm.com
+  - DOMAIN-SUFFIX,caruijia.com
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
