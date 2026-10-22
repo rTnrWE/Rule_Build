@@ -3,5 +3,6 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-KEYWORD,linkedin
