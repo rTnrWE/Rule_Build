@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,zhchmeta.de
   - DOMAIN-SUFFIX,cartp.de
   - IP-CIDR,147.135.114.141/32
+  - IP-CIDR,103.42.180.119/32
   - IP-ASN,45102
   - IP-ASN,132203
   - IP-ASN,37963
